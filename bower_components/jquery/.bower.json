@@ -1,0 +1,14 @@
+{
+  "name": "jquery",
+  "_cacheHeaders": {
+    "ETag": "\"-182725335\"",
+    "Content-Length": "76",
+    "Content-Type": "application/json; charset=utf-8"
+  },
+  "_release": "e-tag:-18272533",
+  "main": "index",
+  "_source": "http://bower.herokuapp.com/packages/jquery",
+  "_target": "*",
+  "_originalSource": "http://bower.herokuapp.com/packages/jquery",
+  "_direct": true
+}

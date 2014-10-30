@@ -1,0 +1,25 @@
+{
+  "name": "cetuslab",
+  "version": "0.0.0",
+  "authors": [
+    "Lukz07 <gutierrez.lukas@gmail.com>"
+  ],
+  "description": "cetuslab project",
+  "main": "css/app.css",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "cetus"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
